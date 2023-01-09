@@ -20,7 +20,7 @@
   "author": "Phil Hawksworth <phil@netlify.com>",
   "license": "ISC",
   "dependencies": {
-    "@11ty/eleventy": "^0.11.1",
+    "@11ty/eleventy": "^1.0.2",
     "axios": "^0.21.1",
     "sass": "^1.29.0"
   }
